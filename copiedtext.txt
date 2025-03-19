@@ -1,0 +1,2 @@
+Hello this is a text file
+it will be used to prove my copy c++ code works
