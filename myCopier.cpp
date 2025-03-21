@@ -1,3 +1,13 @@
+/*
+Editor: Jeremy Burke
+CPE 422 Homework 6
+*/
+
+/*
+This code takes a text fill, read it, and copies it in the same directory
+used new libraries called cstdio and cstdlib which are c libraries to open text files and read them
+*/
+
 #include <iostream>
 #include <cstdio>
 #include <cstdlib>
