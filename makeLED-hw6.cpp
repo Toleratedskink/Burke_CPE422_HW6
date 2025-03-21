@@ -6,6 +6,7 @@
 *         makeLED off
 *         makeLED flash  (flash at 100ms intervals - on 50ms/off 50ms)
 *         makeLED status (get the trigger status)
+*	  makeLED blink <n> (blinks LED <n> times)
 *
 * * Written by Derek Molloy for the book "Exploring BeagleBone: Tools and 
 * Techniques for Building with Embedded Linux" by John Wiley & Sons, 2014
